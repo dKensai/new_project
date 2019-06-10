@@ -4,10 +4,8 @@
 This is a **project**
 
 
-```json
-{
-    "require": {
-        "alexgarrett/violin": "2.*"
-    }
-}
+```php
+use Slim;
+
+echo 'test';
 ```

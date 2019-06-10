@@ -32,3 +32,8 @@ $app->get('login',function($request,$response){
 $app->get('/other',function($request,$response){
 	// other
 })
+
+
+$app->get('/other2',function($request,$response){
+	// other
+})
